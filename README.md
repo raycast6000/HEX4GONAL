@@ -7,4 +7,4 @@
 ## Downloads
 ### Alpha v.0.0.1a
 ##### Available on:
-  - Minecraft 1.19
+  - Minecraft 1.19 | The download is not available.
