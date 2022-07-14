@@ -5,4 +5,4 @@
 - Have [Fabric](https://fabricmc.net/use/installer/) and [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) installed.
 - We wont give support for older versions of Minecraft so make sure your Minecraft version is in the following list.
 ## Supported minecraft versions.
-- 1.19
+- 1.19 | **The client is under development.**
